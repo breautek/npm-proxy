@@ -9,6 +9,7 @@
   "author": "norman@normanbreau.com",
   "license": "MIT",
   "dependencies": {
+    "commander": "^2.19.0",
     "express": "^4.16.4"
   }
 }
