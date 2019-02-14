@@ -1,0 +1,14 @@
+{
+  "name": "@breautek/npm-registry-proxy",
+  "version": "0.0.1",
+  "description": "A simple proxy to place in front of your private NPM registry, but allows falling back to the offical NPM registry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "norman@normanbreau.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
